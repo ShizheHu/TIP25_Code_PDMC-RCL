@@ -1,0 +1,14 @@
+The code and dataset are about the paper "Parameter-free Deep Multi-modal Clustering with Reliable Contrastive Learning", and all the details are in the ZIP file.
+
+If you are going to using our code, please cite our paper with the following:
+
+@article{PDMCRCL_2025,
+title={Parameter-free Deep Multi-modal Clustering with Reliable Contrastive Learning},
+volume={},
+number={},
+journal={IEEE Transactions on Image Processing (TIP)},
+author={Zhengzheng Lou, Hang Xue, Yanzheng Wang, Chaoyang Zhang, Xin Yang, and Shizhe Hu},
+ year={2025},
+ month={Apr.},
+ pages={},
+}
